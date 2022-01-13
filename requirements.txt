@@ -1,0 +1,6 @@
+pandas
+tensorflow
+cmake
+scikit-build
+opencv-python
+requests
